@@ -1,0 +1,10 @@
+{
+  "domain": "eaton_xstorage_home",
+  "name": "Eaton xStorage Home",
+  "version": "1.0",
+  "documentation": "https://example.com",
+  "dependencies": [],
+  "codeowners": ["@your_github_username"],
+  "requirements": [],
+  "config_flow": true
+}
