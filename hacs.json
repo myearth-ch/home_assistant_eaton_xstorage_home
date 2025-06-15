@@ -1,8 +1,4 @@
 {
   "name": "Eaton xStorage Home",
-  "content_in_root": false,
   "domains": ["eaton_xstorage_home"],
-  "country": ["CH", "NO", "NL", "IT", "FR", "UK"],
-  "homeassistant": "2023.5.0",
-  "iot_class": "local_polling"
 }
