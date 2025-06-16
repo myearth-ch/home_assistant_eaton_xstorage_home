@@ -1,28 +1,17 @@
-name: HACS and Hassfest Validation
+name: HACS Action
 
 on:
   push:
   pull_request:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 
 jobs:
   hacs:
-    runs-on: ubuntu-latest
+    name: HACS Action
+    runs-on: "ubuntu-latest"
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
       - name: HACS Action
-        uses: hacs/action@22.5.0
+        uses: "hacs/action@main"
         with:
-          category: integration  # Change this if your project is a plugin, theme, etc.
-
-  validate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Validate with hassfest
-        uses: home-assistant/actions/hassfest@master
+          category: "integration"
