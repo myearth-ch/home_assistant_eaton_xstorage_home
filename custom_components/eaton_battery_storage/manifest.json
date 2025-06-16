@@ -1,5 +1,5 @@
 {
-  "domain": "eaton_xstorage_home",
+  "domain": "eaton_battery_storage",
   "name": "Eaton xStorage Home",
 
   "codeowners": ["@myearth-ch"],
