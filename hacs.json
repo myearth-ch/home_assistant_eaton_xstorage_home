@@ -1,4 +1,5 @@
 {
   "name": "Eaton xStorage Home",
+  "content_in_root": false,
   "domains": ["eaton_xstorage_home"],
 }
