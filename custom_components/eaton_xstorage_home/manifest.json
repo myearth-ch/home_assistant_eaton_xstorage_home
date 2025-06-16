@@ -3,6 +3,7 @@
   "name": "Eaton xStorage Home",
   "version": "1.0",
   "documentation": "https://github.com/myearth-ch/home_assistant_eaton_xstorage_home",
+  "issue_tracker": "https://github.com/myearth-ch/home_assistant_eaton_xstorage_home/issues",
   "dependencies": [],
   "codeowners": ["@myearth-ch"],
   "requirements": [],
