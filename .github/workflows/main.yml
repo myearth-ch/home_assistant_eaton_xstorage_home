@@ -15,6 +15,8 @@ jobs:
 
       - name: HACS Action
         uses: hacs/action@22.5.0
+        with:
+          category: integration  # Change this if your project is a plugin, theme, etc.
 
   validate:
     runs-on: ubuntu-latest
