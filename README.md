@@ -1,4 +1,4 @@
-# xStorage Home integration for Home Assistant
+# Eaton Battery Storage for Home Assistant
 Integrate your Eaton xStorage Home (Tiida) to home assistant with the local API.
 
 ## Available Metrics
