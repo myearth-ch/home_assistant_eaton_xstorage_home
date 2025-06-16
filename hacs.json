@@ -1,9 +1,5 @@
 {
     "name": "Eaton xStorage Home",
     "content_in_root": false,
-    "domains": [
-        "eaton_xstorage_home"
-    ],
-    "country": "CH",
     "homeassistant": "2023.5.0"
 }
