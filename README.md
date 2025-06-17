@@ -22,7 +22,7 @@ The available documentation provides 4 steps to setup an Eaton xStorage Hybrid u
 - HACS installation and configuration
 - Eaton Battery Storage installation and configuration
 
-<a href="https://myearth-ch.github.io/home_assistant_eaton_xstorage_home/setup-eaton-battery-storage-integration" class="Button--primary Button--small Button">
+<a href="https://myearth-ch.github.io/home_assistant_eaton_xstorage_home/" class="Button--primary Button--small Button">
     <span class="Button-content">
         <span class="Button-label">Read the documentation</span>
     </span>
