@@ -1,3 +1,8 @@
+----
+layout: page
+title: "Eaton xStorage Home + Home Assistant"
+----
+
 # Eaton xStorage Home + Home Assistant
 
 [Start integrating xStorage Home with Home Assistant](docs/setup-eaton-xstorage-home.md)
