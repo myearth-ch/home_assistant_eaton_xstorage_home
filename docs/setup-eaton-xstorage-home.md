@@ -9,4 +9,4 @@
 8. Save the IP address, you will need to enter it in the Home Assistant device configuration wizard.
 
 ---
-Next: [Setup your home assistant](setup-home-assistant.md)
+Next: [Setup your home assistant](https://myearth-ch.github.io/home_assistant_eaton_xstorage_home/setup-home-assistant)
