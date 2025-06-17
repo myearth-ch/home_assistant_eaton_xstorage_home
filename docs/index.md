@@ -1,7 +1,7 @@
-----
-layout: page
+---
+layout: default
 title: "Eaton xStorage Home + Home Assistant"
-----
+---
 
 # Eaton xStorage Home + Home Assistant
 
