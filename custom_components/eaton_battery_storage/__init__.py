@@ -17,7 +17,7 @@ async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry):
         hass=hass,
         host=entry.data["host"],
         api_key=data["api_key"],
-        app_id="com.eaton.xstorageHome",
+        app_id="com.eaton.xstoragehome",
         name="Eaton xStorage Home",
         manufacturer="Eaton"
     )
