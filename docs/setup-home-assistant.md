@@ -4,4 +4,4 @@
 - Update the software to the latest version
 
 ---
-Next: [Setup HACS](https://myearth-ch.github.io/home_assistant_eaton_xstorage_home/setup-hacs)
+Next: [Setup HACS](https://greyfold.github.io/home_assistant_eaton_xstorage_home/setup-hacs)
