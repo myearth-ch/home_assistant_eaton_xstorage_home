@@ -1,2 +1,2 @@
-
-DOMAIN = "eaton_xstorage_home"
+# Constants
+DOMAIN = "eaton_battery_storage"
