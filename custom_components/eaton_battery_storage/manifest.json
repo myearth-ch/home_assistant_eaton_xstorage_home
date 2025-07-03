@@ -1,13 +1,14 @@
 {
   "domain": "eaton_battery_storage",
   "name": "Eaton xStorage Home",
-
-  "codeowners": ["@myearth-ch"],
+  "version": "0.1.2",
   "config_flow": true,
+  "documentation": "https://github.com/greyfold/home_assistant_eaton_battery_storage",
+  "issue_tracker": "https://github.com/greyfold/home_assistant_eaton_battery_storage/issues",
   "dependencies": [],
-  "documentation": "https://github.com/myearth-ch/home_assistant_eaton_xstorage_home",
+  "codeowners": ["@greyfold"],
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/myearth-ch/home_assistant_eaton_xstorage_home/issues",
+  "integration_type": "hub",
   "requirements": [],
-  "version": "0.1.2"
+  "supported_platforms": ["sensor"]
 }
