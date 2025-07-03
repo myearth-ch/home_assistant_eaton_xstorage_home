@@ -8,7 +8,7 @@
   "dependencies": [],
   "codeowners": ["@greyfold"],
   "iot_class": "local_polling",
-  "integration_type": "hub",
+  "integration_type": "device",
   "requirements": [],
-  "supported_platforms": "sensor"
+  "supported_platforms": ["sensor", "notify"]
 }
