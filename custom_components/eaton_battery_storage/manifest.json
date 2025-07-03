@@ -10,5 +10,5 @@
   "iot_class": "local_polling",
   "integration_type": "hub",
   "requirements": [],
-  "supported_platforms": ["sensor"]
+  "supported_platforms": "sensor"
 }
