@@ -5,8 +5,8 @@
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/greyfold/home_assistant_eaton_battery_storage",
-  "iot_class": "local_polling",
   "integration_type": "device",
+  "iot_class": "local_polling",
   "issue_tracker": "https://github.com/greyfold/home_assistant_eaton_battery_storage/issues",
   "requirements": [],
   "version": "0.1.2"
